@@ -4,3 +4,17 @@ html {
 	background: #000;
 	color: #fff;
 }
+
+.center {
+  padding: 0 0;
+  border: 0px solid green;
+  text-align: center;
+  font-size: 4em;
+  letter-spacing: 1px;
+  font-weight: 900;
+  font-family: sans-serif;
+}
+
+
+
+
