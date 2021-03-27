@@ -7,12 +7,11 @@ html {
 
 .center {
   padding: 0 0;
-  border: 0px solid green;
+  border: 0px solid black;
   text-align: center;
-  font-size: 4em;
+  font-size: 2em;
   letter-spacing: 1px;
   font-weight: 900;
-  font-family: sans-serif;
 }
 
 
